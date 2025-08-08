@@ -1,0 +1,125 @@
+user_id,topic,time_spent,quiz_score,preference,feedback,rating
+100,Derivatives,11,87,Text,Loved the animation,1
+101,Probability,51,63,Audio,"Too fast, need more examples",2
+102,Linear Equations,30,95,Text,Need detailed explanations,1
+103,Limits,51,63,Audio,Clear and concise,2
+104,Geometry,54,77,Visual,"Too fast, need more examples",5
+105,Probability,57,79,Visual,Need detailed explanations,2
+106,Statistics,43,91,Visual,Very easy to understand,4
+107,Functions,39,72,Text,Good but a bit advanced,3
+108,Algebra,26,70,Audio,Very easy to understand,3
+109,Functions,49,84,Visual,Very easy to understand,4
+110,Algebra,46,77,Audio,Need detailed explanations,2
+111,Probability,22,100,Interactive,Add more practice questions,3
+112,Statistics,52,85,Text,Good but a bit advanced,5
+113,Linear Equations,26,39,Audio,Loved the animation,1
+114,Geometry,49,60,Audio,Very easy to understand,5
+115,Derivatives,27,95,Interactive,"Too fast, need more examples",4
+116,Algebra,22,91,Visual,More diagrams would help,1
+117,Calculus,13,39,Interactive,Prefer video format,4
+118,Trigonometry,23,73,Visual,"Too fast, need more examples",2
+119,Algebra,58,56,Audio,Helpful content!,3
+120,Derivatives,60,85,Text,Very easy to understand,1
+121,Functions,47,55,Text,Clear and concise,2
+122,Derivatives,43,31,Visual,Very easy to understand,1
+123,Geometry,58,65,Interactive,Loved the animation,2
+124,Probability,59,71,Visual,Add more practice questions,5
+125,Trigonometry,28,86,Audio,Very easy to understand,2
+126,Linear Equations,19,94,Visual,Need detailed explanations,5
+127,Limits,15,75,Visual,"Too fast, need more examples",4
+128,Probability,37,91,Audio,Helpful content!,2
+129,Linear Equations,13,93,Interactive,Prefer video format,2
+130,Linear Equations,52,95,Interactive,Helpful content!,5
+131,Probability,25,70,Interactive,Need detailed explanations,5
+132,Derivatives,46,97,Visual,Add more practice questions,4
+133,Linear Equations,35,81,Text,Very easy to understand,1
+134,Limits,56,33,Interactive,Good but a bit advanced,2
+135,Geometry,17,63,Audio,Add more practice questions,1
+136,Derivatives,17,63,Audio,More diagrams would help,5
+137,Trigonometry,24,89,Audio,More diagrams would help,4
+138,Algebra,18,49,Interactive,Prefer video format,3
+139,Linear Equations,37,36,Interactive,Loved the animation,4
+140,Linear Equations,49,61,Audio,Prefer video format,2
+141,Algebra,16,45,Text,Add more practice questions,5
+142,Functions,36,70,Text,Need detailed explanations,5
+143,Derivatives,30,68,Text,Helpful content!,5
+144,Calculus,23,59,Visual,Loved the animation,3
+145,Limits,12,82,Text,Helpful content!,3
+146,Geometry,12,83,Audio,More diagrams would help,3
+147,Linear Equations,51,82,Text,Good but a bit advanced,4
+148,Linear Equations,58,48,Visual,"Too fast, need more examples",4
+149,Linear Equations,35,93,Interactive,Prefer video format,5
+150,Probability,43,99,Visual,More diagrams would help,5
+151,Geometry,52,69,Audio,More diagrams would help,2
+152,Probability,57,33,Visual,Add more practice questions,5
+153,Algebra,28,68,Audio,Very easy to understand,3
+154,Algebra,57,98,Text,Need detailed explanations,3
+155,Derivatives,38,55,Audio,Loved the animation,1
+156,Statistics,57,100,Text,Loved the animation,5
+157,Algebra,60,100,Interactive,More diagrams would help,3
+158,Calculus,13,52,Audio,Add more practice questions,5
+159,Derivatives,30,70,Visual,Very easy to understand,4
+160,Linear Equations,58,96,Interactive,"Too fast, need more examples",4
+161,Calculus,22,87,Text,Good but a bit advanced,3
+162,Limits,57,79,Visual,More diagrams would help,5
+163,Statistics,50,35,Interactive,Need detailed explanations,4
+164,Trigonometry,15,62,Interactive,More diagrams would help,5
+165,Statistics,17,97,Audio,"Too fast, need more examples",3
+166,Derivatives,38,74,Visual,More diagrams would help,2
+167,Limits,40,86,Visual,Helpful content!,1
+168,Geometry,35,46,Text,Helpful content!,1
+169,Functions,15,45,Interactive,Need detailed explanations,5
+170,Functions,14,60,Interactive,Prefer video format,1
+171,Probability,46,95,Visual,Helpful content!,4
+172,Trigonometry,57,35,Interactive,Good but a bit advanced,4
+173,Derivatives,59,73,Interactive,Need detailed explanations,1
+174,Linear Equations,55,99,Interactive,More diagrams would help,3
+175,Calculus,50,58,Interactive,"Too fast, need more examples",3
+176,Probability,27,44,Text,"Too fast, need more examples",1
+177,Limits,59,44,Audio,Need detailed explanations,4
+178,Trigonometry,40,32,Text,Very easy to understand,5
+179,Algebra,17,78,Audio,Need detailed explanations,4
+180,Probability,21,84,Interactive,Prefer video format,2
+181,Probability,16,33,Interactive,Clear and concise,5
+182,Statistics,54,33,Audio,Clear and concise,2
+183,Statistics,48,42,Visual,Helpful content!,3
+184,Derivatives,35,62,Audio,Helpful content!,4
+185,Probability,48,34,Visual,Prefer video format,3
+186,Geometry,21,48,Visual,More diagrams would help,1
+187,Geometry,42,38,Audio,Good but a bit advanced,1
+188,Geometry,40,72,Visual,Very easy to understand,5
+189,Limits,52,96,Audio,Add more practice questions,2
+190,Functions,54,82,Text,Clear and concise,5
+191,Algebra,30,85,Visual,Very easy to understand,3
+192,Probability,59,85,Audio,Loved the animation,5
+193,Trigonometry,33,96,Audio,"Too fast, need more examples",4
+194,Derivatives,15,66,Text,Very easy to understand,4
+195,Calculus,29,58,Audio,"Too fast, need more examples",2
+196,Calculus,18,61,Visual,More diagrams would help,2
+197,Derivatives,14,93,Interactive,More diagrams would help,4
+198,Limits,49,74,Audio,Loved the animation,4
+199,Limits,13,63,Interactive,Clear and concise,5
+200,Algebra,53,74,Visual,Add more practice questions,1
+201,Calculus,35,92,Interactive,Need detailed explanations,1
+202,Limits,17,41,Interactive,More diagrams would help,3
+203,Functions,11,85,Interactive,More diagrams would help,5
+204,Trigonometry,40,45,Visual,More diagrams would help,2
+205,Statistics,49,96,Interactive,Loved the animation,2
+206,Algebra,59,51,Interactive,Helpful content!,4
+207,Functions,50,72,Audio,Loved the animation,2
+208,Trigonometry,52,85,Text,Good but a bit advanced,1
+209,Trigonometry,35,41,Text,Add more practice questions,3
+210,Probability,57,47,Interactive,Clear and concise,1
+211,Functions,21,81,Audio,Need detailed explanations,5
+212,Probability,16,53,Audio,More diagrams would help,2
+213,Trigonometry,35,80,Interactive,Good but a bit advanced,5
+214,Limits,33,81,Visual,Good but a bit advanced,1
+215,Trigonometry,22,94,Audio,"Too fast, need more examples",5
+216,Probability,33,68,Visual,More diagrams would help,1
+217,Algebra,23,90,Text,Good but a bit advanced,1
+218,Geometry,29,31,Text,Loved the animation,5
+219,Calculus,26,63,Visual,Need detailed explanations,4
+0,string,0,0,string,string,0
+220,Calculus,22,60,Interactive,It was good learning ,4
+105,Algebra,50,70,Audio,Gone through nicely,4
+101,Algebra,30,70,Visual,,4
